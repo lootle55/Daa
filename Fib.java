@@ -14,7 +14,7 @@ public class Fib {
      }
 
     public static void main(String[] args) {
-        int count = 1;
+        int count = 10;
         if (count==1){
             System.out.print(n1);
         }
